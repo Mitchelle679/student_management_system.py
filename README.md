@@ -9,5 +9,7 @@ Allow viewing all students,
 Allow deleting a student,
 Run in the terminal using python.
 Language used: Python.
-Course: SEN 201
+Course: SEN 201.
+Name: Iyamu Irenonsen Mitchelle.
+Matric: 24/13610
 [student_management_system.py](https://github.com/user-attachments/files/24338966/student_management_system.py)
